@@ -43,9 +43,9 @@ Report For DECISION TREE:
   model that predicts the value of a target variable by learning simple decision rules inferred from the data features.
 
 Comparison for Gini & Entropy:
-  MEAN ACCURACY
-    •	0.9629629629629629 is the mean accuracy for DT from Gini
-    •	0.9074074074074074 is the mean accuracy for DT from entropy
+MEAN ACCURACY
+•	0.9629629629629629 is the mean accuracy for DT from Gini
+•	0.9074074074074074 is the mean accuracy for DT from entropy
 
     This states that Gini has a better mean accuracy for the DT
 

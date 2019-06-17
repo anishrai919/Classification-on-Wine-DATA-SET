@@ -41,14 +41,14 @@ Class:
 Report For DECISION TREE:
   Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a
   model that predicts the value of a target variable by learning simple decision rules inferred from the data features.
-
+-------------------------------------------------------------------------------------------
 Comparison for Gini & Entropy:
 MEAN ACCURACY
 •	0.9629629629629629 is the mean accuracy for DT from Gini
 •	0.9074074074074074 is the mean accuracy for DT from entropy
 
-    This states that Gini has a better mean accuracy for the DT
-
+ This states that Gini has a better mean accuracy for the DT
+-------------------------------------------------------------------------------------
 
  CONFUSION MATRIX
   GINI: [17 1 0]               ENTROPY: [17 1 0]
@@ -62,7 +62,7 @@ Report For SVM:
   compared to other classifiers such as logistic regression, and decision trees. It is known for its kernel trick to handle nonlinear 
   input spaces. It is used in a variety of applications such as face detection,intrusion detection, classification of emails, news 
   articles and web pages, classification of genes, and handwriting recognition.
-  
+------------------------------------------------------------------------------------------------------------  
   Comparing the results:
     PREDICTION OF THE WINE DATASET:
       FOR LINEAR:
@@ -71,7 +71,7 @@ Report For SVM:
         [2 2 2 1 1 0 1 1 1 2 2 0 1 0 2 1 0 1 1 2 0 1 1 0 1 2 2 1 0 0 1 1 1 1 2 1 2 1 1 2 0 2 0 0 1 1 1 2 1 0 1 1 0 2]
       FOR NON-LINEAR (RBF)
         [2 1 2 1 0 0 1 1 1 2 2 0 1 0 2 1 0 0 0 2 0 1 0 0 1 2 2 0 0 0 1 1 1 1 2 0 2 0 1 2 0 2 0 0 0 1 0 2 1 0 1 0 0 2]
-    
+ -----------------------------------------------------------------------------------------------------------------------------   
    CONFUSION MATRIX:
       FOR LINEAR [14 4 0]               
                  [6 14 1]                        
@@ -89,7 +89,7 @@ Report For SVM:
                             [0 2 13]
 
 
-
+--------------------------------------------------------------------------------------------------
 
 
 
